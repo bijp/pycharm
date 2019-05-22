@@ -1,6 +1,6 @@
 #-*- coding:utf-8 -*-
 
-# github 修改 本地修改
+# github 修改 本地修改 远程修改
 
 from .settings_common import *
 
